@@ -1,6 +1,7 @@
 # 100Days-Analog-IC-Design
 Study Analog IC for one hundred Days
 Day No. | Content               | Day No2. | Content2 | Day No3. | Content3 | Day No4. | Content4 | Day No5. | Content5 
+--- | --- | --- | --- |--- |--- |--- |--- |--- |---
 001     | MOSFET Charactristics | 011     | n     | 021     | n n| 031     | 6t7u     | 041     | y     
 002     | Basics of Amplifiers  | 011     | ---     | 021     | ---     | 031     | ---     | 041     | ---     | 
 003     | Design problems       | 011     | ---     | 021     | ---     | 031     | ---     | 041     | ---     | 
