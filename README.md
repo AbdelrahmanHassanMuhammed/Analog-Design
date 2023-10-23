@@ -1,6 +1,6 @@
 # Mini-Projects <br>
 > **Project No. 01** <br>
->> Two Stage Miller Companiated OTA <br>
+>> Two Stage Miller Companiated OTA
 | Spec | Achived                                                                       |
 | --- |:------------------------------------------------------------------------------ |
 | DC CL Gain | 0 dB                                                                    |
