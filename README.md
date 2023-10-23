@@ -1,8 +1,8 @@
-Mini-Projects 
-**Project No. 01**
-Two Stage Miller Companiated OTA
+# Mini-Projects <br>
+> **Project No. 01** <br>
+>> Two Stage Miller Companiated OTA <br>
 | Spec | Achived                                                                       |
-| --- | ------------------------------------------------------------------------------ |
+| --- |:------------------------------------------------------------------------------ |
 | DC CL Gain | 0 dB                                                                    |
 | Static Gain Error | < 0.05 %                                                         |
 | CMRR | > 74 dB                                                                       |
